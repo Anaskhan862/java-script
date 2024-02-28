@@ -1,0 +1,5 @@
+document.wright("name")
+document.wright("error! please enter a valid password")
+document.wright("welcome to js land")
+document.wright("helow ......i can run js through my browser website console")
+document.wright("welcom to js land happy coding" )
